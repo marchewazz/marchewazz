@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Hippopotomonstrosesquippedaliophobia - fear of long words
 
 <h3 align="center">
-  Technologies and frameworks I use
+  Technologies, frameworks, tools I use
 </h3>
 
 <p align="center">
