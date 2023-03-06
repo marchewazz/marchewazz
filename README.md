@@ -12,10 +12,6 @@
 - 📫 How to reach me: Discord -> marchewaz#4225
 - ⚡ Fun fact: Hippopotomonstrosesquippedaliophobia - fear of long words
 
-<p>
-  MY PAGE: https://portfolio-froontend.herokuapp.com
-</p>
-
 <h3 align="center">
   Technologies, frameworks, tools I use
 </h3>
