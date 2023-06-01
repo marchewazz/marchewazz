@@ -3,12 +3,9 @@
 </h1>
 
 <h3 align="center">
-  I'm Mateusz and I'm 18 years old student
+  I'm Mateusz and I'm 19 years old student
 </h3>
 
-- 🔭 I’m currently working on **two big apps which could work together**
-- 🌱 I’m currently learning **programming usage in sports I'm interested in**
-- 💬 Ask me about **Python**
 - 📫 How to reach me: Discord -> marchewaz#4225
 - ⚡ Fun fact: Hippopotomonstrosesquippedaliophobia - fear of long words
 
