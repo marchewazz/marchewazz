@@ -30,7 +30,7 @@
 <hr>
 
 <h3 align="center">
-  I develop my own project using
+  I develop my own projects using
 </h3>
 
 <p align="center">
