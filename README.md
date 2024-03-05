@@ -3,14 +3,19 @@
 </h1>
 
 <h3 align="center">
-  I'm Mateusz and I'm 19 years old Junior Frontend Developer
+  I'm Mateusz - 19 years old Junior Frontend Developer
 </h3>
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=marchewazz&theme=synthwave&show_icons=true&count_private=true" />
-    </a>
-</p>
+<hr>
+
+<h3 align="center">
+  Some of my work
+</h3>
+
+- Video Rental App - <a href="https://video-rental.onrender.com"> demo </a> | <a href="https://github.com/marchewazz/video-rental-react"> frontend </a> | <a href="https://github.com/marchewazz/video-rental-server"> backend </a>
+- CODERHINO Page - <a href="https://coderhino.cc"> demo </a>
+
+<hr>
 
 <h3 align="center">
   Technologies, frameworks, tools I use/used at work
@@ -45,3 +50,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="100" width="100" />       
 </p>
+
+<hr>
+
+<h3 align="center">
+  Some of my GitHub stats
+</h3>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=marchewazz&theme=synthwave&show_icons=true&count_private=true" />
+    </a>
+</p>
+
+<hr>
