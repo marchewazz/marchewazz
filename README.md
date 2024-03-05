@@ -12,8 +12,8 @@
   Some of my work
 </h3>
 
-- Video Rental App - <a href="https://video-rental.onrender.com"> demo </a> | <a href="https://github.com/marchewazz/video-rental-react"> frontend </a> | <a href="https://github.com/marchewazz/video-rental-server"> backend </a>
-- CODERHINO Page - <a href="https://coderhino.cc"> demo </a>
+- Video Rental App - <a href="https://video-rental.onrender.com" target="_blank"> demo </a> | <a href="https://github.com/marchewazz/video-rental-react" target="_blank"> frontend </a> | <a href="https://github.com/marchewazz/video-rental-server" target="_blank"> backend </a>
+- CODERHINO Page - <a href="https://coderhino.cc" target="_blank"> demo </a>
 
 <hr>
 
