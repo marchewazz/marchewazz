@@ -13,6 +13,7 @@
 </h3>
 
 - Video Rental App - <a href="https://video-rental.onrender.com" target="_blank"> demo </a> | <a href="https://github.com/marchewazz/video-rental-react" target="_blank"> frontend </a> | <a href="https://github.com/marchewazz/video-rental-server" target="_blank"> backend </a>
+- Video Rental App - <a href="https://marchewczyk-portfolio.onrender.com" target="_blank"> demo </a> | <a href="https://github.com/marchewazz/portfolio-page" target="_blank"> source </a>
 - CODERHINO Page - <a href="https://coderhino.cc" target="_blank"> demo </a>
 
 <hr>
