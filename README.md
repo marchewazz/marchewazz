@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm Mateusz - 19 years old Junior Frontend Developer
+  I'm Mateusz - 20 years old Junior Frontend Developer
 </h3>
 
 <hr>
