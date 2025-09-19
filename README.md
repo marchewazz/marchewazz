@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm Mateusz - 20 years old Junior Frontend Developer
+  I'm Mateusz - 21 years old Junior Frontend Developer
 </h3>
 
 <hr>
@@ -11,10 +11,6 @@
 <h3 align="center">
   Some of my work
 </h3>
-
-- Video Rental App - <a href="https://video-rental.onrender.com" target="_blank"> demo </a> | <a href="https://github.com/marchewazz/video-rental-react" target="_blank"> frontend </a> | <a href="https://github.com/marchewazz/video-rental-server" target="_blank"> backend </a>
-- Portfolio Website - <a href="https://marchewczyk-portfolio.onrender.com" target="_blank"> demo </a> | <a href="https://github.com/marchewazz/portfolio-page" target="_blank"> source </a>
-- CODERHINO Page - <a href="https://coderhino.cc" target="_blank"> demo </a>
 
 <hr>
 
