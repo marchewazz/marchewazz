@@ -9,12 +9,6 @@
 <hr>
 
 <h3 align="center">
-  Some of my work
-</h3>
-
-<hr>
-
-<h3 align="center">
   Technologies, frameworks, tools I use/used at work
 </h3>
 
