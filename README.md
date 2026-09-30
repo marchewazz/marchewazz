@@ -77,12 +77,6 @@ const experience = [
     about: "My first work placement in technical school. During this placement we built a browser layout synced with data from the League of Legends game client. On this project I was responsible for the backend in Node.js.",
   },
 ];
-
-```
-
----
-```
-
 ```
 **Check me out:** [My website](https://marchewazz.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mateusz-marchewczyk-b2b7881ba/) · [Resume in Polish](https://marchewazz.github.io/portfolio/resume-pl.pdf) · [Resume in English](https://marchewazz.github.io/portfolio/resume-en.pdf)
 
